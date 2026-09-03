@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-4He3Ou3ysgY9EWhnuW1QQE&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce="4He3Ou3ysgY9EWhnuW1QQE">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'fo29YytlzcEBwy5.Qj1L8gxY4pRsNU3YYWy8tKGxypU-1788134684-1.2.1.1-AAZ1vGkjByPkCIJ69wNDukSTppi5RMksKhh1k5V0kkjuymrt6SPa.FzJ0cJfvnjF',cITimeS: '1788134684',cN: '4He3Ou3ysgY9EWhnuW1QQE',cRay: 'a337c7943f9b8c9d',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/jackTV.m3u?__cf_chl_tk=P1u.dOm8V724GT6KCK4MP4u8q4f2t8X3eSimbe_zDVI-1788134684-1.0.1.1-AIdL0aopBoATTp_G1Pidm9RgWYR9qpLjh_t7iYq3bUU",cvId: '3',cZone: 'php.946985.filegear-sg.me',fa:"/jackTV.m3u?__cf_chl_f_tk=P1u.dOm8V724GT6KCK4MP4u8q4f2t8X3eSimbe_zDVI-1788134684-1.0.1.1-AIdL0aopBoATTp_G1Pidm9RgWYR9qpLjh_t7iYq3bUU",md: 'MqZFO8F_S4gmZW6SV9JZS_Hh5K70ggVOaYFZRbM5uWE-1788134684-1.2.1.1-CvPhrKghy25o_UuEpKfDcyAcHp1n1FZ3YL9SRd0.csTbArwBNbcVxa.hgb7.GBhGzg9KWHgSSsVhEwoi6gSK5dUSmRsYFhWdDJmgJpB7agmne2msH3jTZw4LEkh6ftM_aENKiKLblPCaJmfZIYaLW2ebQDWgL60Qt1Q7.9fvpH.pmdKUbo8MsroTUR93qCtiDEd.jPPwwzCjiS9Ta8lbtx5SYY74tnWYdQfAr.zFj7KS107790dX.QlSQg2vc0i8u5V.9QoRj44msD7noit.PW0vywB9afKKrEz471OLpBT1XHsjLzEzBuFrBJ3.YCNxNZiIqD_s_pGKugyXn.mwHFNKV..NrCCdGTGWg6o0hh3ydDUjozHpmumL5kEmdvkjow0cfIg4Pa696U6avVNpHssJ8hql6VXaIodehyAg3LYh9G2wpBX1TqLPqzpfUSR6nelprc9ReRTV2oeJEDCZ2Wo4rMxaIIuNUPnpaTIlZRd4qBNEoh64.H8NAJfPyU9DHbNPt1eG0wG2j2OYcyshwIygn67X1VMyeXMykJThRlVdRLS1Ol625uo94UTsN1Nhy0w3_9UQR6xvefJMFGGHm7TcYiqG_4dn0oqjn_l4MxxNNQGrCpvpSF1o6mryEA0PQ90wcmHbhQEBUo2MyOvGUviT5WIEYMsvc3u8uEk9wYPrO5tKKzWVqN7CiEaADzG5R3GKU7IBGkM51PebpgfrDuP8x8a73sEHnIpn0ybkEFECCMmDC_iYEBvAxhlZAY2c.PZEhcfC93zzGG.ouIqvydH2f6H3F.toE02shLZ8TwUX5B9xBHyhb5_QIhNRqTDk4vK5zJklA1euY1MkCj5LfC3GseGMT9u_aCUjuNVLXfwvfLcvLbT2POMWCNor8hqTVn7oKqLFIaiQa.seyD3BI.VIeF2GQTXchxTSzaBLnB5Anj4YOuxiK8ZRytGlVpNTuaHPCxy87XdR3V4qEjghQjAMJ9jnJO7NYNpvQw9tU0Q',mdrd: 'c7TH1YhxsArC604zk.EVheyu72CkO42JD_mcbqLEG6g-1788134684-1.2.1.1-lJ2237bgINStT_zbwV8KDrZJeNPMRLlifzyEErA1nAgyT.3qwuswPRyx2iFetoWMOQ636EH.XY7Pl3nNFWnLZEMuLv98nuX7jbltPmnw6u2iGzH5LNLLFRruVQPpC.202Noj.vV8inwh0FShCZ1whJouzVuHyUm_ahjIyAtIY.blI9jvP6GKbtCq9h_sOTaXztXwOA1zZkaz8qhM8VzfxAt.A.4yItawaYkngOqOUVdsDQhy0fn2ZdIvtCltlx8a8fRFJB4NGUSXKCQMJ6ts_Eh3FG1ZfFAiGpafYHVfoZ_zy_ecpBOQsZQllOPj7Kmx',};var a = document.createElement('script');a.nonce = '4He3Ou3ysgY9EWhnuW1QQE';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a337c7943f9b8c9d';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/jackTV.m3u?__cf_chl_rt_tk=P1u.dOm8V724GT6KCK4MP4u8q4f2t8X3eSimbe_zDVI-1788134684-1.0.1.1-AIdL0aopBoATTp_G1Pidm9RgWYR9qpLjh_t7iYq3bUU"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-SZYb48nE9tBHRiZHjVBOug&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce="SZYb48nE9tBHRiZHjVBOug">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ha3Cx35QaUyoqnOx0vH6W9v44pGzO3slqAcxkUQVnuc-1788394191-1.2.1.1-SCE2Ipvmm2S5ZsxgwwRBLF4QKfmxb204mE0ECii1vFH_N1HS.9q2Ow0Xlt8_MhHO',cITimeS: '1788394191',cN: 'SZYb48nE9tBHRiZHjVBOug',cRay: 'a350872fcd1c6187',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/jackTV.m3u?__cf_chl_tk=WLJj3C5AL02maynaMlh6xPMoErpA_EWmJKf3ELSx9EY-1788394191-1.0.1.1-PjCQ464MAXWV5rH5aV1YNv4at1i9ZTu.R1pfmRTQdMM",cvId: '3',cZone: 'php.946985.filegear-sg.me',fa:"/jackTV.m3u?__cf_chl_f_tk=WLJj3C5AL02maynaMlh6xPMoErpA_EWmJKf3ELSx9EY-1788394191-1.0.1.1-PjCQ464MAXWV5rH5aV1YNv4at1i9ZTu.R1pfmRTQdMM",md: '1ysKKTrxAbOe9aR_u3YmxP.Csj_LGDO_NqV4GC6uItA-1788394191-1.2.1.1-UniRUwHS_UwRVmVbzpoSv9a6CoFdMxgpVq0Rqt0IsjgESHQYN_3p3UsyW34TS8XDEWhGwjbqi9UDjqvU86kmLWeSgOut2qVBr2lwX6K6H7GuESlgKXtIpCEyj7uCxR1d5yRfzK_kgrDtcTSUeFCYGdYfhv518ssYRReYbBMC8UUC9EJXiKSvAbCWezUoC3Qea3M4toIbhKB2.5OwfxLa4eqfvi4UKkUzGotoQxjaohhpOFECcw7w0S_TiKOG.dOZWWYEslUnsg8U8eu6ojIMjFQne0.Q_6NIb7cj_hTVa17x6RHW4QI5piVtuJXX8VH8aju1dJ_RKu3vhewDQtHlJa9MW.99VOOvzfDO9FYyOEL4prwghLqD6tpVxzomaDfRPxqfZsdRMl9CB3UlpsueWFym_ZLqQYjad2J4ttd.SR4_vvA9YTfqCupcOELFy_zVFrB09ZTU7eVfbj0vl6rtucQ8sC_.wHZiBbsN9GwxWCtdCRIFLlZKFN8OfX92LhC2dt3CwKaDRvWx0vb1HzY0R1G_kegMAEO9Kj7c6W.9Mw7CNykE_yL9UWWcHIHo3JbyXLyuJAnKEvDhKJuYtbnkMH4jrlE9jF3w5QvA6rkPFZwfwK9mYXCmo5IDs0DGv4Iizl3T.5EwIl04RzFGEB6Mt20a6NjH6CA5G2MUPxK.oEAwsx.U31YpLTWJinoGzRovixXmtX7._9VTZtwLTkrTs2KQ0ifi2tkdccW89JAzc8pEJ36E25eptFU4JnJ4c9vZyUS5b_5uDb6BEW4Hx_1RdwNAWiqKcUXxmdCLbCsEzZMsJU9bEwreYTlGE6ebaQ5qcIDYRCZuda6obuJ0uT59ECJH.mJ718Idh2TJynv1Uz15C1PYQ2Ia7euxgqq1l4DEbSB3BMdhcjfynBmEDu2QKbJGEfVdEpHQ98ezS1agbfLFEXvqVfF8mDfqEk3AICOJ7.DxDsJJCB6XXIFrfkIPfw3cPoYWHYDr4OxWIrqHc40',mdrd: 'V33D3js7MDSlP.pGXyW7sEKxw8I3Z3p9nh4eZzGoDxY-1788394191-1.2.1.1-d1QNgoqLj_YQrLPSZAJDG_TLdqZOmiJPKlkxprLDhf698hcUF6LWZ4eZQwbBDGf26ZvNPksv_qjUL1I6P07VMt1OZO9IIHPU5jc5oaDz8_oM8jr7IWrI8WdDkj5Oc6xpylcUfahHwOgR7IgQnuW5OfJmd1_6iGdaPW7Y4jqJpX9L0NzXGQMR7xclc0gzsWjsKV0LAdi1cGRcUUSBrixHLZamIOMgQa8QsbOT0SR33DzosNNdu6txFcQyNGMfjjsN3o7snbKKwxijOljERtxMa50hsgYMLNzG7kGIwJwJ1INMLy.oXCf4fR.Bm6.DfqvK',};var a = document.createElement('script');a.nonce = 'SZYb48nE9tBHRiZHjVBOug';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a350872fcd1c6187';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/jackTV.m3u?__cf_chl_rt_tk=WLJj3C5AL02maynaMlh6xPMoErpA_EWmJKf3ELSx9EY-1788394191-1.0.1.1-PjCQ464MAXWV5rH5aV1YNv4at1i9ZTu.R1pfmRTQdMM"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
 TVB Plus(字幕),https://cdn.qd.je/163189/tvbp
 HOY TV,https://cdn.qd.je/163189/hoy
 HOY TV,https://cdn.qd.je/163189/hoy2
@@ -2686,6 +2686,289 @@ GOODTV福音台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liv
 GOODTV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOOD福音台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784706116084
+民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784706116084
+民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784706116084
+大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1784706116084
+三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784706116084
+客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1784706116084
+八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784706116084
+TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784706116084
+靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784706116084
+靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784706116084
+民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784706116084
+豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784706116084
+靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784706116084
+KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784706116084
+靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784706116084
+TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784706116084
+鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784706116084
+東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784706116084
+華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784706116084
+民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784706116084
+三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784706116084
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784706116084
+東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784706116084
+中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784706116084
+寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784706116084
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784706116084
+公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784706116084
+八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784706116084
+靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784706116084
+靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784706116084
+金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784706116084
+采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784706116084
+靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784706116084
+影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784706116084
+amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784706116084
+CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784706116084
+TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784706116084
+經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784706116084
+中视菁采,https://ktpremium.world/live/LT1976F/A9177/684837.ts
+采昌影剧,https://ktpremium.world/live/LT1976F/A9177/870545.ts
+東森超視34.5,https://ktpremium.world/live/LT1976F/A9177/877045.ts
+三立综合,https://ktpremium.world/live/LT1976F/A9177/877054.ts
+三立live inew,https://ktpremium.world/live/LT1976F/A9177/515184.ts
+三立新闻HD,https://ktpremium.world/live/LT1976F/A9177/515185.ts
+民视新闻,https://ktpremium.world/live/LT1976F/A9177/515191.ts
+民视新闻,https://ktpremium.world/live/LT1976F/A9177/515192.ts
+东森财经,https://ktpremium.world/live/LT1976F/A9177/515196.ts
+台视新闻,https://ktpremium.world/live/LT1976F/A9177/515200.ts
+中视新闻,https://ktpremium.world/live/LT1976F/A9177/515206.ts
+靖洋戏剧,https://ktpremium.world/live/LT1976F/A9177/900861.ts
+ELTA综合,https://ktpremium.world/live/LT1976F/A9177/900865.ts
+龙华电影,https://ktpremium.world/live/LT1976F/A9177/918602.ts
+靖天戏剧台,https://ktpremium.world/live/LT1976F/A9177/918600.ts
+TVBS歡樂台,https://ktpremium.world/live/LT1976F/A9177/918585.ts
+三立戏剧,https://ktpremium.world/live/LT1976F/A9177/918593.ts
+民视综艺台,https://ktpremium.world/live/LT1976F/A9177/918590.ts
+靖天日本,https://ktpremium.world/live/LT1976F/A9177/918597.ts
+靖天育乐,https://ktpremium.world/live/LT1976F/A9177/918595.ts
+靖天综合,https://ktpremium.world/live/LT1976F/A9177/918598.ts
+公视戏剧,https://ktpremium.world/live/LT1976F/A9177/515023.ts
+豬哥亮歌廳秀,https://ktpremium.world/live/LT1976F/A9177/918599.ts
+中视经典,https://ktpremium.world/live/LT1976F/A9177/726090.ts
+八大精彩,https://ktpremium.world/live/LT1976F/A9177/995280.ts
+客家电视台,https://ktpremium.world/live/LT1976F/A9177/995282.ts
+采昌影剧,https://ktpremium.world/live/LT1976F/A9177/995284.ts
+靖天欢乐台,https://ktpremium.world/live/LT1976F/A9177/995286.ts
+古典音乐台,https://ktpremium.world/live/LT1976F/A9177/995288.ts
+龙华日韩,https://ktpremium.world/live/LT1976F/A9177/948087.ts
+东森戏剧,https://ktpremium.world/live/LT1976F/A9177/1003296.ts
+中天综合,https://ktpremium.world/live/LT1976F/A9177/1003299.ts
+三立都会,https://ktpremium.world/live/LT1976F/A9177/1003300.ts
+民视旅游台,https://ktpremium.world/live/LT1976F/A9177/918592.ts
+民视戏剧台,https://ktpremium.world/live/LT1976F/A9177/918591.ts
+龙华经典,https://ktpremium.world/live/LT1976F/A9177/1029148.ts
+八大综艺台,https://ktpremium.world/live/LT1976F/A9177/995281.ts
+中天新闻HD,https://ktpremium.world/live/LT1976F/A9177/870539.ts
+东森新闻,https://ktpremium.world/live/LT1976F/A9177/870544.ts
+台新闻,https://ktpremium.world/live/LT1976F/A9177/903164.ts
+Rusia Today,https://ktpremium.world/live/LT1976F/A9177/995375.ts
+寰宇新闻台湾台,https://ktpremium.world/live/LT1976F/A9177/1003301.ts
+华视新闻,https://ktpremium.world/live/LT1976F/A9177/918584.ts
+AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
+Cinemax,https://ktpremium.world/live/LT1976F/A9177/515076.ts
+MOVIE MOVIE,https://ktpremium.world/live/LT1976F/A9177/870555.ts
+HBO HD,https://ktpremium.world/live/LT1976F/A9177/870553.ts
+HBO HIts,https://ktpremium.world/live/LT1976F/A9177/870554.ts
+HBO Family,https://ktpremium.world/live/LT1976F/A9177/900875.ts
+HBO Signature,https://ktpremium.world/live/LT1976F/A9177/900881.ts
+华纳电影,https://ktpremium.world/live/LT1976F/A9177/900866.ts
+好莱坞电影台,https://ktpremium.world/live/LT1976F/A9177/684844.ts
+龙华洋片,https://ktpremium.world/live/LT1976F/A9177/515085.ts
+龙祥时代,https://ktpremium.world/live/LT1976F/A9177/694086.ts
+AMC电影台,https://ktpremium.world/live/LT1976F/A9177/995220.ts
+靖天电影台,https://ktpremium.world/live/LT1976F/A9177/995222.ts
+华丽翡翠台,https://cdn.qd.je/163189/hlfct
+TVB亚洲武侠,https://cdn.qd.je/163189/yzwx
+华丽翡翠台(硬字幕),http://c.123.rr.kg/163189/jade
+HOY TV,http://c.123.rr.kg/163189/hoy
+TVB1,http://c.123.rr.kg/163189/tvb1
+TVBJ1,http://c.123.rr.kg/163189/j1
+翡翠剧集台,http://c.123.rr.kg/163189/tvbd
+华丽翡翠台,http://c.123.rr.kg/163189/hlfct
+TVB亚洲武侠,http://c.123.rr.kg/163189/yzwx
+TVB娱乐新闻台,http://c.123.rr.kg/163189/ylxw
+翡翠剧集台,https://cdn.qd.je/163189/tvbd
+TVB Plus(字幕),https://cdn.qd.je/163189/tvbp
+HOY TV,https://cdn.qd.je/163189/hoy
+HOY TV,https://cdn.qd.je/163189/hoy2
+HOY国际财经台,https://cdn.qd.je/163189/hoy76
+ViuTV,https://cdn.qd.je/163189/viu
+ViuTVsix,https://cdn.qd.je/163189/viu6
+NOW新闻台,https://cdn.qd.je/163189/now
+TVB1,https://cdn.qd.je/163189/tvb1
+TVBJ1,https://cdn.qd.je/163189/j1
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+中天新闻台,http://173.208.234.146/live/ctinews.m3u8
+天映频道台,http://173.208.234.146/live/typd.m3u8
+爱奇艺,https://cdn.qd.je/163189/iqiyi
+天影CCM,https://cdn.qd.je/163189/ccm
+CHU5,https://cdn.qd.je/163189/ch5
+CHU8,https://cdn.qd.je/163189/ch8
+CHU,https://cdn.qd.je/163189/chu
+欢喜台,https://cdn.qd.je/163189/hxt
+天映新加坡,https://cdn.qd.je/163189/typd
+华丽翡翠台,https://cdn.qd.je/163189/hlt
+华丽翡翠台(硬字幕),https://cdn.qd.je/163189/jade
+华丽翡翠台(新加坡),https://cdn.qd.je/163189/jade2
+Astro AOD,https://cdn.qd.je/163189/aod
+Astro欢喜台,https://cdn.qd.je/163189/hxt
+爱奇艺,https://cdn.qd.je/163189/iqiyi
+天映频道,https://cdn.qd.je/163189/typd2
+TVB Plus(WebVTT字幕),https://cdn.qd.je/163189/tvbpvtt
+黄金华剧台(WebVTT字幕),https://cdn.qd.je/163189/hjhjt
+TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
+TVB無綫 新聞,http://rihou.cc:555/tv/[Pd]无线新闻
+600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
+HOY TV,https://cdn6.cc.cd/163189/hoy
+有綫新聞,http://rihou.cc:555/tv/[Pd]有线新闻
+Now 新闻台,https://cdn.123.rr.kg/163189/now
+Now 新闻台,http://www.kaniptv.cn/uadl.php?etoken=%2A%2A%2A
+Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻,http://rihou.cc:555/tv/[Hk]Now新闻
+Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
+TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
+凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰 资讯,https://cdn6.cc.cd/163189/fhzx
+华丽翡翠台(新加坡),http://cdn3.123.rr.kg/stream/live/jade/
+天映经典台CCM,http://cdn3.123.rr.kg/stream/live/ccm/
+华丽台,http://cdn6.123.rr.kg/163189/hlfct
+华丽翡翠台,http://cdn6.123.rr.kg/163189/jade
+TVB DRAMA翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
+TVB1,http://cdn6.123.rr.kg/163189/tvb1
+TVB J1,http://cdn6.123.rr.kg/163189/j1
+澳门体育,http://cdn6.123.rr.kg/163189/amty
+澳门 莲花,http://cdn6.123.rr.kg/163189/amlh
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+VIUTV,https://cdn.123.rr.kg/163189/viu
+ViuTV,https://cdn.qd.je/163189.php?id=viu
+TVB 1,https://cdn6.cc.cd/163189/tvb1
+TVB 1,https://cdn.qd.je/163189.php?id=tvb1
+TVBJ1,https://cdn6.cc.cd/163189/j1
+TVBJ1,https://cdn.qd.je/163189.php?id=j1
+TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
+华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
+翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
+华丽翡翠台,https://cdn6.cc.cd/163189/jade
+TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
+重温经典,https://cdn6.cc.cd/163189/cwjd
+澳门莲花,https://cdn6.cc.cd/163189/amlh
+Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
+有线综合tv,http://rihou.cc:555/tv/[Pd]有线综合
+无线翡翠tv,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽tv,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠tv,http://rihou.cc:555/tv/[Pd]无线明珠
+无线翡剧tv,http://rihou.cc:555/tv/[Pd]无线翡剧
+无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐|
+无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐
+无线星河tv,http://rihou.cc:555/tv/[Pd]无线星河
+无线经典tv,http://rihou.cc:555/tv/[Pd]无线经典
+无线功夫tv,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门tv,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星tv,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育tv,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺tv,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花tv,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合tv,http://rihou.cc:555/tv/[Pd]央视综合
+重温经典tv,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影tv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典tv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像tv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩tv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧tv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+八度空间tv,http://rihou.cc:555/tv/[Pd]八度空间
+CHU综合tv,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合tv,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合tv,http://rihou.cc:555/tv/[Pd]CH8综合
+astroaodtv,http://rihou.cc:555/tv/[Pd]astroaod
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=%2A%2A%2A
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=%2A%2A%2A
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=%2A%2A%2A
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=%2A%2A%2A
+嶺南戲曲[Lingnan Drama],http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=%2A%2A%2A
+岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=%2A%2A%2A
+岭南戏曲,http://192.151.150.154/live/gdlnxq.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w929410396.m3u8
+澳门卫视,https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w27593303.m3u8
+澳门MACAU,https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w1839236055.m3u8
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+广东体育1,http://198.204.228.26/live/gdty.m3u8
+广东体育2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=%2A%2A%2A
+大湾区卫视 2,http://www.maomizi.cn:9527/udp/239.77.0.215:5146
+大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
+大湾区卫视 3,http://plex.cyruslee.top:8888/udp/239.77.0.215:5146
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新聞 h,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS H新聞台,https://tv.iill.top/4gtv/media-live073
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=01
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd=
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+民视HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+AWE,https://awe-lg.amagi.tv/playlist.m3u8
+AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/chunklist1.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/chunklist0.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/chunklist1.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
+中旺電視,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+中旺電視,http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+中旺電視,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+中旺電視,http://38.64.72.148:80/hls/modn/list/4010/chunklist0.m3u8
+中旺電視,http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8
+美國城市衛視,http://38.64.72.148/hls/modn/list/4028/chunklist0.m3u8
+美國城市衛視,http://38.64.72.148/hls/modn/list/4028/chunklist1.m3u8
+美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist0.m3u8
+美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
+美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/playlist.m3u8
+world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
+UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
+NFL_NETWORK,http://23.237.104.106:8080/USA_NFL_NE
 软件作者,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 资源宝藏库,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 制作维护,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -9103,289 +9386,6 @@ DJ专场,http://cfss.cc/cdn/huya/20432228.flv
 12道锋味专场,http://cfss.cc/cdn/huya/30080162.flv
 我们的客栈专场,http://cfss.cc/cdn/huya/24609812.flv
 变形计专场,http://cfss.cc/cdn/huya/23903164.flv
-民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784706116084
-民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784706116084
-民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784706116084
-大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1784706116084
-三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784706116084
-客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1784706116084
-八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784706116084
-TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784706116084
-靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784706116084
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784706116084
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784706116084
-豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784706116084
-靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784706116084
-KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784706116084
-靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784706116084
-TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784706116084
-鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784706116084
-東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784706116084
-華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784706116084
-民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784706116084
-三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784706116084
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784706116084
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784706116084
-中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784706116084
-寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784706116084
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784706116084
-公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784706116084
-八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784706116084
-靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784706116084
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784706116084
-金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784706116084
-采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784706116084
-靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784706116084
-影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784706116084
-amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784706116084
-CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784706116084
-TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784706116084
-經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784706116084
-中视菁采,https://ktpremium.world/live/LT1976F/A9177/684837.ts
-采昌影剧,https://ktpremium.world/live/LT1976F/A9177/870545.ts
-東森超視34.5,https://ktpremium.world/live/LT1976F/A9177/877045.ts
-三立综合,https://ktpremium.world/live/LT1976F/A9177/877054.ts
-三立live inew,https://ktpremium.world/live/LT1976F/A9177/515184.ts
-三立新闻HD,https://ktpremium.world/live/LT1976F/A9177/515185.ts
-民视新闻,https://ktpremium.world/live/LT1976F/A9177/515191.ts
-民视新闻,https://ktpremium.world/live/LT1976F/A9177/515192.ts
-东森财经,https://ktpremium.world/live/LT1976F/A9177/515196.ts
-台视新闻,https://ktpremium.world/live/LT1976F/A9177/515200.ts
-中视新闻,https://ktpremium.world/live/LT1976F/A9177/515206.ts
-靖洋戏剧,https://ktpremium.world/live/LT1976F/A9177/900861.ts
-ELTA综合,https://ktpremium.world/live/LT1976F/A9177/900865.ts
-龙华电影,https://ktpremium.world/live/LT1976F/A9177/918602.ts
-靖天戏剧台,https://ktpremium.world/live/LT1976F/A9177/918600.ts
-TVBS歡樂台,https://ktpremium.world/live/LT1976F/A9177/918585.ts
-三立戏剧,https://ktpremium.world/live/LT1976F/A9177/918593.ts
-民视综艺台,https://ktpremium.world/live/LT1976F/A9177/918590.ts
-靖天日本,https://ktpremium.world/live/LT1976F/A9177/918597.ts
-靖天育乐,https://ktpremium.world/live/LT1976F/A9177/918595.ts
-靖天综合,https://ktpremium.world/live/LT1976F/A9177/918598.ts
-公视戏剧,https://ktpremium.world/live/LT1976F/A9177/515023.ts
-豬哥亮歌廳秀,https://ktpremium.world/live/LT1976F/A9177/918599.ts
-中视经典,https://ktpremium.world/live/LT1976F/A9177/726090.ts
-八大精彩,https://ktpremium.world/live/LT1976F/A9177/995280.ts
-客家电视台,https://ktpremium.world/live/LT1976F/A9177/995282.ts
-采昌影剧,https://ktpremium.world/live/LT1976F/A9177/995284.ts
-靖天欢乐台,https://ktpremium.world/live/LT1976F/A9177/995286.ts
-古典音乐台,https://ktpremium.world/live/LT1976F/A9177/995288.ts
-龙华日韩,https://ktpremium.world/live/LT1976F/A9177/948087.ts
-东森戏剧,https://ktpremium.world/live/LT1976F/A9177/1003296.ts
-中天综合,https://ktpremium.world/live/LT1976F/A9177/1003299.ts
-三立都会,https://ktpremium.world/live/LT1976F/A9177/1003300.ts
-民视旅游台,https://ktpremium.world/live/LT1976F/A9177/918592.ts
-民视戏剧台,https://ktpremium.world/live/LT1976F/A9177/918591.ts
-龙华经典,https://ktpremium.world/live/LT1976F/A9177/1029148.ts
-八大综艺台,https://ktpremium.world/live/LT1976F/A9177/995281.ts
-中天新闻HD,https://ktpremium.world/live/LT1976F/A9177/870539.ts
-东森新闻,https://ktpremium.world/live/LT1976F/A9177/870544.ts
-台新闻,https://ktpremium.world/live/LT1976F/A9177/903164.ts
-Rusia Today,https://ktpremium.world/live/LT1976F/A9177/995375.ts
-寰宇新闻台湾台,https://ktpremium.world/live/LT1976F/A9177/1003301.ts
-华视新闻,https://ktpremium.world/live/LT1976F/A9177/918584.ts
-AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
-Cinemax,https://ktpremium.world/live/LT1976F/A9177/515076.ts
-MOVIE MOVIE,https://ktpremium.world/live/LT1976F/A9177/870555.ts
-HBO HD,https://ktpremium.world/live/LT1976F/A9177/870553.ts
-HBO HIts,https://ktpremium.world/live/LT1976F/A9177/870554.ts
-HBO Family,https://ktpremium.world/live/LT1976F/A9177/900875.ts
-HBO Signature,https://ktpremium.world/live/LT1976F/A9177/900881.ts
-华纳电影,https://ktpremium.world/live/LT1976F/A9177/900866.ts
-好莱坞电影台,https://ktpremium.world/live/LT1976F/A9177/684844.ts
-龙华洋片,https://ktpremium.world/live/LT1976F/A9177/515085.ts
-龙祥时代,https://ktpremium.world/live/LT1976F/A9177/694086.ts
-AMC电影台,https://ktpremium.world/live/LT1976F/A9177/995220.ts
-靖天电影台,https://ktpremium.world/live/LT1976F/A9177/995222.ts
-华丽翡翠台,https://cdn.qd.je/163189/hlfct
-TVB亚洲武侠,https://cdn.qd.je/163189/yzwx
-华丽翡翠台(硬字幕),http://c.123.rr.kg/163189/jade
-HOY TV,http://c.123.rr.kg/163189/hoy
-TVB1,http://c.123.rr.kg/163189/tvb1
-TVBJ1,http://c.123.rr.kg/163189/j1
-翡翠剧集台,http://c.123.rr.kg/163189/tvbd
-华丽翡翠台,http://c.123.rr.kg/163189/hlfct
-TVB亚洲武侠,http://c.123.rr.kg/163189/yzwx
-TVB娱乐新闻台,http://c.123.rr.kg/163189/ylxw
-翡翠剧集台,https://cdn.qd.je/163189/tvbd
-TVB Plus(字幕),https://cdn.qd.je/163189/tvbp
-HOY TV,https://cdn.qd.je/163189/hoy
-HOY TV,https://cdn.qd.je/163189/hoy2
-HOY国际财经台,https://cdn.qd.je/163189/hoy76
-ViuTV,https://cdn.qd.je/163189/viu
-ViuTVsix,https://cdn.qd.je/163189/viu6
-NOW新闻台,https://cdn.qd.je/163189/now
-TVB1,https://cdn.qd.je/163189/tvb1
-TVBJ1,https://cdn.qd.je/163189/j1
-NOW星影台,http://173.208.234.146/live/nowxy.m3u8
-NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
-中天新闻台,http://173.208.234.146/live/ctinews.m3u8
-天映频道台,http://173.208.234.146/live/typd.m3u8
-爱奇艺,https://cdn.qd.je/163189/iqiyi
-天影CCM,https://cdn.qd.je/163189/ccm
-CHU5,https://cdn.qd.je/163189/ch5
-CHU8,https://cdn.qd.je/163189/ch8
-CHU,https://cdn.qd.je/163189/chu
-欢喜台,https://cdn.qd.je/163189/hxt
-天映新加坡,https://cdn.qd.je/163189/typd
-华丽翡翠台,https://cdn.qd.je/163189/hlt
-华丽翡翠台(硬字幕),https://cdn.qd.je/163189/jade
-华丽翡翠台(新加坡),https://cdn.qd.je/163189/jade2
-Astro AOD,https://cdn.qd.je/163189/aod
-Astro欢喜台,https://cdn.qd.je/163189/hxt
-爱奇艺,https://cdn.qd.je/163189/iqiyi
-天映频道,https://cdn.qd.je/163189/typd2
-TVB Plus(WebVTT字幕),https://cdn.qd.je/163189/tvbpvtt
-黄金华剧台(WebVTT字幕),https://cdn.qd.je/163189/hjhjt
-TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
-TVB無綫 新聞,http://rihou.cc:555/tv/[Pd]无线新闻
-600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
-HOY TV,https://cdn6.cc.cd/163189/hoy
-有綫新聞,http://rihou.cc:555/tv/[Pd]有线新闻
-Now 新闻台,https://cdn.123.rr.kg/163189/now
-Now 新闻台,http://www.kaniptv.cn/uadl.php?etoken=%2A%2A%2A
-Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
-Now新闻,http://rihou.cc:555/tv/[Hk]Now新闻
-Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
-TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
-凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰 资讯,https://cdn6.cc.cd/163189/fhzx
-华丽翡翠台(新加坡),http://cdn3.123.rr.kg/stream/live/jade/
-天映经典台CCM,http://cdn3.123.rr.kg/stream/live/ccm/
-华丽台,http://cdn6.123.rr.kg/163189/hlfct
-华丽翡翠台,http://cdn6.123.rr.kg/163189/jade
-TVB DRAMA翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
-TVB1,http://cdn6.123.rr.kg/163189/tvb1
-TVB J1,http://cdn6.123.rr.kg/163189/j1
-澳门体育,http://cdn6.123.rr.kg/163189/amty
-澳门 莲花,http://cdn6.123.rr.kg/163189/amlh
-NOW星影台,http://173.208.234.146/live/nowxy.m3u8
-NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
-VIUTV,https://cdn.123.rr.kg/163189/viu
-ViuTV,https://cdn.qd.je/163189.php?id=viu
-TVB 1,https://cdn6.cc.cd/163189/tvb1
-TVB 1,https://cdn.qd.je/163189.php?id=tvb1
-TVBJ1,https://cdn6.cc.cd/163189/j1
-TVBJ1,https://cdn.qd.je/163189.php?id=j1
-TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
-华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
-翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
-华丽翡翠台,https://cdn6.cc.cd/163189/jade
-TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
-重温经典,https://cdn6.cc.cd/163189/cwjd
-澳门莲花,https://cdn6.cc.cd/163189/amlh
-Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
-有线综合tv,http://rihou.cc:555/tv/[Pd]有线综合
-无线翡翠tv,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
-无线华丽tv,http://rihou.cc:555/tv/[Pd]无线华丽
-无线明珠tv,http://rihou.cc:555/tv/[Pd]无线明珠
-无线翡剧tv,http://rihou.cc:555/tv/[Pd]无线翡剧
-无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐|
-无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐
-无线星河tv,http://rihou.cc:555/tv/[Pd]无线星河
-无线经典tv,http://rihou.cc:555/tv/[Pd]无线经典
-无线功夫tv,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门tv,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星tv,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育tv,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺tv,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花tv,http://rihou.cc:555/tv/[Pd]澳门莲花
-央视综合tv,http://rihou.cc:555/tv/[Pd]央视综合
-重温经典tv,http://rihou.cc:555/tv/[Pd]重温经典
-龙华电影tv,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华经典tv,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像tv,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩tv,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧tv,http://rihou.cc:555/tv/[Pd]龙华戏剧
-八度空间tv,http://rihou.cc:555/tv/[Pd]八度空间
-CHU综合tv,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5综合tv,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合tv,http://rihou.cc:555/tv/[Pd]CH8综合
-astroaodtv,http://rihou.cc:555/tv/[Pd]astroaod
-邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=%2A%2A%2A
-邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=%2A%2A%2A
-邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=%2A%2A%2A
-邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=%2A%2A%2A
-嶺南戲曲[Lingnan Drama],http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=%2A%2A%2A
-岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=%2A%2A%2A
-岭南戏曲,http://192.151.150.154/live/gdlnxq.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w929410396.m3u8
-澳门卫视,https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w27593303.m3u8
-澳门MACAU,https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w1839236055.m3u8
-澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
-广东体育1,http://198.204.228.26/live/gdty.m3u8
-广东体育2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=%2A%2A%2A
-大湾区卫视 2,http://www.maomizi.cn:9527/udp/239.77.0.215:5146
-大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
-大湾区卫视 3,http://plex.cyruslee.top:8888/udp/239.77.0.215:5146
-民视频道,rtmp://f13h.mine.nu/sat/tv051
-台视频道,rtmp://f13h.mine.nu/sat/tv071
-中视频道,rtmp://f13h.mine.nu/sat/tv091
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-中天新聞 h,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS H新聞台,https://tv.iill.top/4gtv/media-live073
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
-东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=01
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd=
-新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-民视HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-AWE,https://awe-lg.amagi.tv/playlist.m3u8
-AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
-KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
-KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/chunklist1.m3u8
-KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
-KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/chunklist0.m3u8
-KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/chunklist1.m3u8
-KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
-中旺電視,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
-中旺電視,http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
-中旺電視,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
-中旺電視,http://38.64.72.148:80/hls/modn/list/4010/chunklist0.m3u8
-中旺電視,http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8
-美國城市衛視,http://38.64.72.148/hls/modn/list/4028/chunklist0.m3u8
-美國城市衛視,http://38.64.72.148/hls/modn/list/4028/chunklist1.m3u8
-美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
-美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist0.m3u8
-美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
-美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/playlist.m3u8
-world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
-UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-NFL_NETWORK,http://23.237.104.106:8080/USA_NFL_NE
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 浙江卫视4K,http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
